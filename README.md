@@ -1,7 +1,7 @@
 ##../incident-handler-journal.md
 
 
-## Incident Handler’s Journal
+## Incident Handler Journal
 - **Artifact:** Incident Handler’s Journal (4 entries + reflections)
 - **Skills shown:** documentation, incident triage, 5 W’s, tooling awareness, structured reporting
 
