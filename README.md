@@ -10,8 +10,8 @@
 - Applied structured incident handling using real scenarios
 - Used GitHub to version, track, and publish work
 - Published via GitHub Pages for public verification
-  
-## File : incident-handler-journal.md
+
+ ## File: [incident-handler-journal.md](incident-handler-journal.md)
 
 ## Evidence
 - Commit history shows incremental work and timestamps
