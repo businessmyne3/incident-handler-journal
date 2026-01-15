@@ -1,4 +1,5 @@
-#incident-handler-journal.md
+##../incident-handler-journal.md
+
 
 ## Incident Handler’s Journal
 - **Artifact:** Incident Handler’s Journal (4 entries + reflections)
