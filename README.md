@@ -1,4 +1,4 @@
-##../incident-handler-journal.md
+../incident-handler-journal.md
 
 
 ## Incident Handler Journal
